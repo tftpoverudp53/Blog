@@ -28,4 +28,9 @@ At Palo Alto Ignite 2018 in Amsterdam [@k3r3n3](https://twitter.com/k3r3n3) taug
 
 As a cyber security professional people are at the core of what I do, I've got no desire to go back to troubleshooting end user computing issues, but I need to know that we have engineers at customers sites without the correct software, we have sales guys mailing PII to third parties and that despite all the impressive stats about the usage of our password reset portal there's still a large number of people out there who don't know it exists. 
 
-People are only the weakest link if we treat them that way, work with "the user", communicate with them about why we're introducing controls , find people to champion your security projects, tell them how it's going to benefit them, don't dismiss the challenges they face and by all means get pissed off when they log support tickets, but use your energy to focus on avoiding future tickets of that nature.
+People are only the weakest link if we treat them that way, work with "the user", communicate with them about why we're introducing controls , find people to champion your security projects, tell them how it's going to benefit them and work with them to ensure it does, don't dismiss the challenges they face and by all means get pissed off when they log support tickets, but use your energy to focus on avoiding future tickets of that nature, don't get mad at the person who's asking for help as they could be the same person who spots something suspicious, but doesn't flag it because "IT are useless"*.
+
+
+
+
+* You may be an elite cyber security professional, you may have a different reporting line to IT, but if you know stuff about computers and talk about firewalls and servers then you're still IT.
